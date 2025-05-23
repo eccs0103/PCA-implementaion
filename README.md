@@ -4,6 +4,9 @@
 ![Preview](./resources/preview.png)
 
 ## Feed
+### 1.1.3 (24.05.2025)
+- Documentation supplemented
+
 ### 1.1.2 (24.05.2025)
 - Completed full PCA class with forward and inverse transformation.
 - Integrated PCA into [main.py](./main.py) and visualized the difference plot.
