@@ -1,5 +1,8 @@
 # PCA Implementation
 
+## Information
+![Preview](./resources/preview.png)
+
 ## Feed
 ### 1.1.2 (24.05.2025)
 - Completed full PCA class with forward and inverse transformation.
