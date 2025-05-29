@@ -9,7 +9,7 @@
 
 ### 1.1.2 (24.05.2025)
 - Completed full PCA class with forward and inverse transformation.
-- Integrated PCA into [main.py](./main.py) and visualized the difference plot.
+- Integrated PCA into [main.py](./scripts/main.py) and visualized the difference plot.
 - Visualized MSE and data usage.
 - Added strict type annotations.
 - Minor bug fixes.
