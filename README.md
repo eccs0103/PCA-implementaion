@@ -3,6 +3,8 @@
 ## Information
 ![Preview](./resources/preview.png)
 
+[Open in PDF](./presentation/PCA_Presentation.pdf)
+
 ## Feed
 ### 1.1.3 (24.05.2025)
 - Documentation supplemented
